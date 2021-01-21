@@ -33,8 +33,8 @@ dt3 = dt2 - today
 
 
 # メインコンテンツ
-st.header('ゆみの計算アプリ')
-st.markdown(r'''計算が苦手なゆみのための日付計算アプリです''')
+st.header('保障期限 計算アプリ')
+st.markdown(r'''設定した保障割合と保障日数から日付が計算できます''')
 st.markdown(r'''* * *''')
 # st.subheader('選択した商品情報')
 # st.table(df_filter.set_index('No'))
